@@ -4,9 +4,10 @@ Thymeleaf Examples: extraThyme
  
  This is an example project containing code used in the "Extending Thymeleaf" tutorial.
  
- To learn more:
+Click on the links
+ to learn more:
  
-     http://www.thymeleaf.org
+    http://www.thymeleaf.org
 
 
 Building
